@@ -1,0 +1,7 @@
+[submodule "dilettantedad/public"]
+	path = dilettantedad/public
+	url = https://github.com/IanMcGonigle/dilettantedad.github.io.git
+	branch = main
+[submodule "dilettantedad/themes/hugo-theme-fluidity"]
+	path = dilettantedad/themes/hugo-theme-fluidity
+	url = https://github.com/wayjam/hugo-theme-fluidity.git
