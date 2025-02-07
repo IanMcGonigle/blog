@@ -1,0 +1,4 @@
+baseURL = "https://ianmcgonigle.github.io/dilettantedad.github.io/"
+languageCode = "en-us"
+title = "Dilettante Dad"
+theme = "hugo-theme-fluidity"
