@@ -55,3 +55,9 @@ Kari went into therapy-mom mode and began to calm Grant down. Eventually she was
 
 We stayed for another hour before it started to get dark. We had many successful runs down the bunny hills. Although Grant fell on his final run, and we left Glen Eden in generally high spirits.
 I am very proud of Kari, grant and Truman. They all outperformed my expectations, even if they didn't outperform their own.
+
+To lighten the mood on the car ride home, I sent Grant some text messages "Audiooooooooooooo" quoting the Justice song we were listening to Audio, Video Disco.
+
+In return, he sent me gibberish, which then the car read out loud in its robotic voice. This made everyone in the car belly laugh. For the remainder of the trip home the boys continued sending me text messages for the car to read. Messages about poo, and poop shoes, and other nonsense were dutifully read by the car to the boys delight.
+
+After a quick dinner of hamburgers from Rudy's the boys were tuckered out and ready for bed. Despite some moments of frustration, the ski trip was a success.
