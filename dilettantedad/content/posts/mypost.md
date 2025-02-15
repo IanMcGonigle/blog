@@ -7,3 +7,5 @@ title = 'Test Post'
 # This is a test post!
 
 this is a blog post
+
+<!-- hugo new content/posts/{postname}.md -->
