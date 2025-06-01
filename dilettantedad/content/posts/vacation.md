@@ -1,6 +1,5 @@
 +++
 date = '2025-06-01T11:09:56-04:00'
-draft = true
 title = 'Vacation'
 +++
 
@@ -18,7 +17,7 @@ We took the taxi through the canals of Venice, passing gondolas full of tourists
 
 We met our concierge at the hotel, a Venetian local, who marked several points of interest on a map, and gave us our room key. The key was a card, and a physical key all on a long thin metal key chain that looked like a miniature abacus. Our room was a large suite on the second floor. It had a queen bed on the ground level, two bathrooms a mezzanine with two twin beds for the boys. After settling in we decided to explore the city, and look for gelato and maybe food.
 
-We wandered the city looking for some lunch. We were unable to follow the markings the concierge had left on our map, but found a sandwich shop. The concierge gave us a useful tip for wayfinding - Look up and there will be signs with arrows labled 'Rialto', 'Accadamia', or 'San Marco'. Using this system we wandered through the narrow streets of stuccoed buildings to Sait Marks Square. The square was very impressive, full of people and pigeons. The boys had room to run around, and we were able slowly make our way from an arcade on one side of the square to the other where the Basilica, Doge's Palace, and Saint Marks Tower could be found.
+We wandered the city looking for some lunch. We were unable to follow the markings the concierge had left on our map, but found a sandwich shop. The concierge gave us a useful tip for way finding - Look up and there will be signs with arrows labeled 'Rialto', 'Accadamia', or 'San Marco'. Using this system we wandered through the narrow streets of stuccoed buildings to Saint Marks Square. The square was very impressive, full of people and pigeons. The boys had room to run around, and we were able slowly make our way from an arcade on one side of the square to the other where the Basilica, Doge's Palace, and Saint Marks Tower could be found.
 
 The arcades around the square were full of restaurants and high-end shops, and exits to various side streets. After marveling at the square we decided to follow the Rialto signs. 
 
@@ -51,7 +50,7 @@ Acidamia bridge?
 ## Rovijn
 <!-- Domir - our Driver -->
 <!-- Pula - Roman ruins, Sasha tour guide -->
-<!-- Rovijn, Goran tour guide -->
+<!-- Rovijn - old city, Goran tour guide -->
 <!-- Croatia's next top Dracula -->
 <!--  Dinner at the hotel -->
 
