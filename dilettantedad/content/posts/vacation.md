@@ -25,9 +25,33 @@ The Rialto bridge was quite the sight. Lined with businesses on either side (the
 
 We crossed the bridge, ate gelato, had "Take-away" Aperol spritzes and listened to a street performer before continuing our exploration. The city was beautiful, and reminded me of Florence, but with more tourist nick-knack stores - I didn't think that was possible. Everywhere we went the predominant language I heard was English and I could not help feeling bad for the Venetians. They had been a prominent force in global trade and the preeminent naval operation in the Adriatic. The unique properties of the city that had enabled it to become prosperous were a hindrance when the world changed. Now the only business that seemed to exist was parading the city's unique features out for hordes of visitors. Once a regional superpower, now a curiosity to be observed like a freak show at the county fair.
 
+We took a thirty minute ride in a gondola through the winding narrow canals. The gondolas were all black lacquer some had red piping for trim, they reminded me of the Bat-mobile from the 1960's tv show with Adam West. The seating was different than I had imagined - there was a kind of bench seat built into the boat itself, but additional seats were just chairs sitting in the hull, as if they were cargo heading to your grandmother's dining room.
+
+We passed countless other gondoliers along the way. All with gondolas filled with tourists. I had been expecting the gondoliers to sing. But instead, they all seemed to yell at each other. The yelling wasn't mean spirited, but jovial, and happened almost as soon as they spied one another.
+
+We took the labyrinthian canals out to the grand canal - where all the side canals seem to end. We were unable to go out on the grand canal as it was too windy, but we did get out and turn around before heading down another smaller one. After the ride we decided to get some dinner.
+
 We ate dinner along alfresco along a canal. We met a couple of other Canadians at the restaurant. They were from the west coast, and we talked about the NHL playoffs among other things. The food was _ok_, and very expensive - a description that could fit most of the meals we ate in Venice. Grant was pooped on by either a seagull or a pigeon. Either way he was not happy.
 
+We explored some more, and found more gelato, and finished the evening on the rooftop of our hotel.
+
 <!-- Day Two -->
+The second day in Venice started with a breakfast buffet in our hotel. We arrived closer to the end of service, so we were seated in auxiliary seating set up in the courtyard that serves as a fancy restaurant in the evening. The spread was great, scrambled eggs, fresh fruit, pastries, freshly squeezed juice.
+
+After breakfast we decided to use the spa in the hotel before setting out for the day. We changed into our swim wear and were met with a bellman who lead us to an elevator to the spa level. Now, I am terrified of elevators and try to avoid them at all cost. I asked if there was another way to the span, and was told there was not. This lift was about eight square feet in total, with a low ceiling. Every surface was mirrored. It was slow, we only needed to descend one floor, but it felt like it took an hour. My hear felt like it was going to explode.
+
+The spa itself was lovely. Tiled in emerald green, small but efficient, tucked away beside the gym. We sat in the hot tub and had a good time, for the most part. I tried to relax but I could not stop fretting over our need to return to our floor in the mirrored coffin that brought us here. When it was time to return to the room, Kari and the boys took the elevator, and I found a way out to the courtyard where we ate breakfast, and from there I found my way back to our room.
+
+We went out to explore and decided to see the Academia bridge. It was a wooden bridge that was a lot larger than I had anticipated. We marveled at it for a while and admired the views of the large canal. We crossed over to a new area of the city with no agenda other than finding some gelato. We passed a man playing music on a case full of water glasses. This blew the boys mind and they gave hie a few euros.
+We found a gelato kiosk in a secluded courtyard. Near the center of the courtyard was a small public fountain. I think it was bronze, and had a lion's head where the water dribbled out into a bucket on the ground. Truman played with the water at length, and eventually caught the water in his hands declaring loudly "I'm the bucket now!"
+
+We wandered unto we came to a large white church across a bay from St Marks square. There were large steps that extended down to the water. There many people seated on the stairs, many of them painting - I think they may have been taking a class. We went into the church to take a look around. I always get an odd feeling being in these churches. On one hand, they are an a testament to the wondrous things humans can accomplish when they share a common inspiration. And on the other they are monuments to a religious order that has manipulated, oppressed, abused and subjugated countless people for thousands of years.
+
+We took a boat bus from the front of the church one stop to St Marks Square. We had lunch at a restaurant facing the water. The food was expensive, and not that good. While in the washroom, a pigeon landed on Grant's pizza. It would not leave until Kari swatted it. After this the staff gave Truman a squirt bottle and a mission: chase the pigeons away with the water. Truman spent the rest of our time at the restaurant dodging between tables startling pigeons and patrons alike.
+
+After lunch we went to the top of St. Marks tower. The views were nothing short of spectacular. The boys kept us up at the top for more than forty five minutes, playing complicated games of eye-spy.
+
+
 <!-- 
 The spa - and the elevator
 Doges Palace
