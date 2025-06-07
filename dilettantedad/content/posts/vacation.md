@@ -49,7 +49,9 @@ We wandered unto we came to a large white church across a bay from St Marks squa
 
 We took a boat bus from the front of the church one stop to St Marks Square. We had lunch at a restaurant facing the water. The food was expensive, and not that good. While in the washroom, a pigeon landed on Grant's pizza. It would not leave until Kari swatted it. After this the staff gave Truman a squirt bottle and a mission: chase the pigeons away with the water. Truman spent the rest of our time at the restaurant dodging between tables startling pigeons and patrons alike.
 
-After lunch we went to the top of St. Marks tower. The views were nothing short of spectacular. The boys kept us up at the top for more than forty five minutes, playing complicated games of eye-spy.
+After lunch we went to the top of St. Marks tower. The views were nothing short of spectacular. Each cardinal co-ordinate had its own lookout, looking out over the city, the basilica, the lagoon, and the square. The boys kept us up at the top for more than forty five minutes, playing complicated games of eye-spy. I didn't mind, there was a cool breeze and the crowd was small.
+
+Next up was a guided tour of the Doge's Palace. Our guide showed us the most interesting aspects of the palace. The gilded ceilings, the chambers where the laws were written and carried out. One of the most amazing things was the large room. It was decorated with pictures of all the Doges high up in a band where the walls met the ceiling. For a time it was the largest room in the world without any support pillars. We then crossed through The Bridge of Sighs from the Palace to the prison. It was called this by Lord Byron who said prisoners sighed as the looked out the windows on the bridge as this was their last look of freedom. The prison was stark. THe cells were small concrete holes, barred with a special braided steel that was impossible to saw through. The doors into the cells were designed so you can only enter on your knees. The prison had been in operation until the nineteen twenties.
 
 
 <!-- 
