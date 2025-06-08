@@ -10,10 +10,10 @@ On Friday May 16th we embarked on a family trip to Italy and Croatia. This is a 
 The flight was delayed and long, but direct from Toronto to Venice. We sat two by two Kari with Grant, myself and Truman the row behind them. We were fortunate that we all got some sleep.
 
 ## Venice
-
+### Day 1
 We arrived in Venice around noon local time, and were greeted by an older Italian woman with a placard with Kari's name on it. We hopped in a large black van and headed from Marco Polo airport across the Constitution bridge to the edge of the city. The sun was high and the sky clear, it was warm. We soaked up the sunshine while we waited for the first of many boats on the trip - a water taxi to The Saturnia - our hotel while in Venice.
 
-We took the taxi through the canals of Venice, passing gondolas full of tourists, under low foot bridges, and past all manner of Italian style buildings all bordered with salt stains for high waters past. We took the grand canal for a while and past water busses and speed boats, before turning down another small canal on which our hotel had an entrance.
+We took the taxi through the canals of Venice, passing gondolas full of tourists, under low foot bridges, and passed all manner of Italian style buildings all bordered with salt stains from high waters past. We took the grand canal for a while and past water busses and speed boats, before turning down another small canal on which our hotel had an entrance.
 
 We met our concierge at the hotel, a Venetian local, who marked several points of interest on a map, and gave us our room key. The key was a card, and a physical key all on a long thin metal key chain that looked like a miniature abacus. Our room was a large suite on the second floor. It had a queen bed on the ground level, two bathrooms a mezzanine with two twin beds for the boys. After settling in we decided to explore the city, and look for gelato and maybe food.
 
@@ -35,7 +35,7 @@ We ate dinner along alfresco along a canal. We met a couple of other Canadians a
 
 We explored some more, and found more gelato, and finished the evening on the rooftop of our hotel.
 
-<!-- Day Two -->
+### Day 2
 The second day in Venice started with a breakfast buffet in our hotel. We arrived closer to the end of service, so we were seated in auxiliary seating set up in the courtyard that serves as a fancy restaurant in the evening. The spread was great, scrambled eggs, fresh fruit, pastries, freshly squeezed juice.
 
 After breakfast we decided to use the spa in the hotel before setting out for the day. We changed into our swim wear and were met with a bellman who lead us to an elevator to the spa level. Now, I am terrified of elevators and try to avoid them at all cost. I asked if there was another way to the span, and was told there was not. This lift was about eight square feet in total, with a low ceiling. Every surface was mirrored. It was slow, we only needed to descend one floor, but it felt like it took an hour. My hear felt like it was going to explode.
@@ -52,6 +52,30 @@ We took a boat bus from the front of the church one stop to St Marks Square. We 
 After lunch we went to the top of St. Marks tower. The views were nothing short of spectacular. Each cardinal co-ordinate had its own lookout, looking out over the city, the basilica, the lagoon, and the square. The boys kept us up at the top for more than forty five minutes, playing complicated games of eye-spy. I didn't mind, there was a cool breeze and the crowd was small.
 
 Next up was a guided tour of the Doge's Palace. Our guide showed us the most interesting aspects of the palace. The gilded ceilings, the chambers where the laws were written and carried out. One of the most amazing things was the large room. It was decorated with pictures of all the Doges high up in a band where the walls met the ceiling. For a time it was the largest room in the world without any support pillars. We then crossed through The Bridge of Sighs from the Palace to the prison. It was called this by Lord Byron who said prisoners sighed as the looked out the windows on the bridge as this was their last look of freedom. The prison was stark. THe cells were small concrete holes, barred with a special braided steel that was impossible to saw through. The doors into the cells were designed so you can only enter on your knees. The prison had been in operation until the nineteen twenties.
+
+The courtyard at the side of our hotel turns into a posh restaurant in the evenings. White table clothes, multiple forks, a dedicated sommelier. The establishment was probably a little too fancy to bring kids as young as as ours, but they were well behaved, for the most part. The food was the best _I_ had in Venice, but Truman did not like his pasta and did not eat any. I don't think Kari liked her ravioli much either. After dinner we went in search of something more to Truman's liking - pizza - and of course some gelato.
+
+### Day 3
+Our last day in Venice we took the Green Line tour of the islands in the Venetian lagoon. We the boat had a tour guide who offered a tour services in English, French, Italian, and German. She was difficult to hear over the roar of the boat engines.
+
+The first Island on the tour was Merano. Where we saw a demonstration of the glassworks the island is famous for. The people gathered in a standing area with tiered steps, like a mini auditorium. We watched as the glassworker make a vase by blowing glass, and then his mentor made a prancing horse out of a molten blob glass. At the end of each demonstration the emcee placed a strip of paper on the finished product and each time it vanished in a burst of flames. After We toured the gift shop, and took a stroll down the main canal before setting off to the next island - Torcello.
+
+There was not much on Torcello. It was the first inhabited island on in the lagoon. There was an old church, as well as numerous restaurants. We had lunch at an outdoor snack-bar next to a playground were the boys could get out some energy.
+
+Our final island was Berano. I wish we could have spent more than an hour there. The island was full of brightly colored houses in tightly packed neighborhoods. The island was traditionally home to a fishing village, and the legend is that the houses were painted vibrantly so that fishermen returning home could distinguish their houses in the dense fog that frequently engulfs the village. We walked the main canals and went down several side streets and allies. The main canals were lined with restaurants and tourist stores, but just off the canals it the buildings seemed to be homes of people who live there full time. Several establishments had sheets hanging in front of the doors. I assumed this was to prevent random tourists from entering.
+
+We returned to the hotel, and waited for a water taxi to take us to the ferry terminal. During our wait we spoke to some people from Rhode Island who had come to Venice as the last stop on a trans Atlantic cruise.
+
+Our lasts views of Venice were very similar to our first - a water taxi on the canals. The taxi was expensive, but worth it as it would have been difficult to get our luggage to the ferry terminal without the taxi.
+
+The sun deck on the ferry was only available while we were in the Venetian lagoon, Grant and I made the most of it. The majority of the trip across the Adriatic we read our respective books.
+
+We arrived in Rovijn to a spectacular sunset. The dock was just outside the old city, and we had great views of the city and the islands just off the coast. The boys looked at the old city and said "IT LOOKS JUST LIKE VENICE". We were met by Damir, our driver for the Croatian portion of our trip. He took us in a big black van and we drove away from Rovijn to an agro-tourismo winery called San Tomasso. This was further from the city than we had anticipated.
+
+Upon arrival we were greeted by what appeared to be the sole person working at the hotel. We had a late dinner, and settled in to a very small but well appointed suite.
+
+
+
 
 
 <!-- 
@@ -74,11 +98,23 @@ Acidamia bridge?
 -->
 
 ## Rovijn
+### Day 4
 <!-- Domir - our Driver -->
 <!-- Pula - Roman ruins, Sasha tour guide -->
 <!-- Rovijn - old city, Goran tour guide -->
 <!-- Croatia's next top Dracula -->
 <!--  Dinner at the hotel -->
+#### Pula
+Breakfast at San Tomasso was a spectacular spread, a buffet just for us really. Home made yogurt, assorted meats, baked goods the works. Domir picked us up to take us to our first of two guided tours of the day. The first tour was of the city of Pula.
+
+Pula had been established by the ancient romans, and was the home to a roman amphitheater. We picked up our tour guide Sasha, at a gas station that was build into a retaining wall. She immediately won over our boys by asking them what their favorite dinosaurs were. We were not permitted to enter the amphitheater as they were shooting a commercial. At first I was disappointed, but the commercial had roman centurions racing on chariots, so kinda had an authentic amphitheater experience. Sasha gave us the history of the structure, and was impressed by Grant's Croatian he had learned before the trip.
+
+Pula was fascinating as it was obviously a modern working city, but it was peppered with ancient ruins. It was like seeing your teacher at the grocery store times a thousand. Sasha showed us one block that had the entire history of the city: Roman gate, next to Italian Fascist building, next to an Austrian building, next to a communist building. She also introduced us to Burek, a kind of pastry similar to spanakopita, made with phyllo pastry with meat or cheese filling.
+
+#### Rovijn
+After Pula, Domir took us to Rovijn, where we met our tour guide Goran. Goran was very pleasant, and knew much about Canada. He asked us some questions about our provinces that I think were to tell if we were Americans trying to pass as Canadians. 
+
+
 
 ## Split
 <!-- 
