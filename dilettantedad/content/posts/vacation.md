@@ -33,7 +33,9 @@ We took the labyrinthian canals out to the grand canal - where all the side cana
 
 We ate dinner along alfresco along a canal. We met a couple of other Canadians at the restaurant. They were from the west coast, and we talked about the NHL playoffs among other things. The food was _ok_, and very expensive - a description that could fit most of the meals we ate in Venice. Grant was pooped on by either a seagull or a pigeon. Either way he was not happy.
 
-We explored some more, and found more gelato, and finished the evening on the rooftop of our hotel.
+After dinner, we took to the narrow streets in search of more gelato. The boys were rambunctious and running up and down the stair on the various foot bridges over the canals. They were having a wonderful time, but I was sure they were going to hurt themselves. I warned them but they did not seem to care. Eventually one of them _did_ fall and scrape their knee. I got angry. I yelled at the boys, it upset them, and Kari. After my outburst the boys said that they did not deserve to be on vacation. I felt terrible. It was not my intention to make them feel this way, but that was the result. I just wanted them to be aware of themselves and their surroundings. I tried to reassure them that it would not be a worthwhile vacation without them.
+
+The city seemed to empty out after dark. We made our way back to our hotel, and the route seemed deserted compared to earlier.
 
 ### Day 2
 The second day in Venice started with a breakfast buffet in our hotel. We arrived closer to the end of service, so we were seated in auxiliary seating set up in the courtyard that serves as a fancy restaurant in the evening. The spread was great, scrambled eggs, fresh fruit, pastries, freshly squeezed juice.
