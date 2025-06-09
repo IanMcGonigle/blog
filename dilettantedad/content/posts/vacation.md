@@ -72,7 +72,7 @@ Our lasts views of Venice were very similar to our first - a water taxi on the c
 
 The sun deck on the ferry was only available while we were in the Venetian lagoon, Grant and I made the most of it. The majority of the trip across the Adriatic we read our respective books.
 
-We arrived in Rovijn to a spectacular sunset. The dock was just outside the old city, and we had great views of the city and the islands just off the coast. The boys looked at the old city and said "IT LOOKS JUST LIKE VENICE". We were met by Damir, our driver for the Croatian portion of our trip. He took us in a big black van and we drove away from Rovijn to an agro-tourismo winery called San Tomasso. This was further from the city than we had anticipated.
+We arrived in Rovinj to a spectacular sunset. The dock was just outside the old city, and we had great views of the city and the islands just off the coast. The boys looked at the old city and said "IT LOOKS JUST LIKE VENICE". We were met by Damir, our driver for the Croatian portion of our trip. He took us in a big black van and we drove away from Rovinj to an agro-tourismo winery called San Tomasso. This was further from the city than we had anticipated.
 
 Upon arrival we were greeted by what appeared to be the sole person working at the hotel. We had a late dinner, and settled in to a very small but well appointed suite.
 
@@ -99,11 +99,11 @@ Acidamia bridge?
     Sunset over Rovinj
 -->
 
-## Rovijn
+## Rovinj
 ### Day 4
 <!-- Domir - our Driver -->
 <!-- Pula - Roman ruins, Sasha tour guide -->
-<!-- Rovijn - old city, Goran tour guide -->
+<!-- Rovinj - old city, Goran tour guide -->
 <!-- Croatia's next top Dracula -->
 <!--  Dinner at the hotel -->
 #### Pula
@@ -113,8 +113,8 @@ Pula had been established by the ancient romans, and was the home to a roman amp
 
 Pula was fascinating as it was obviously a modern working city, but it was peppered with ancient ruins. It was like seeing your teacher at the grocery store times a thousand. Sasha showed us one block that had the entire history of the city: Roman gate, next to Italian Fascist building, next to an Austrian building, next to a communist building. She also introduced us to Burek, a kind of pastry similar to spanakopita, made with phyllo pastry with meat or cheese filling.
 
-#### Rovijn
-After Pula, Domir took us to Rovijn, where we met our tour guide Goran. Goran was very pleasant, and knew much about Canada. He asked us some questions about our provinces that I think were to tell if we were Americans trying to pass as Canadians. 
+#### Rovinj
+After Pula, Domir took us to Rovinj, where we met our tour guide Goran. Goran was very pleasant, and knew much about Canada. He asked us some questions about our provinces that I think were to tell if we were Americans trying to pass as Canadians. 
 
 
 
