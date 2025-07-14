@@ -37,27 +37,27 @@ Truman and I made a song. I made a drum beat. Truman made a melody with a xyloph
 
 P.S. Here is the full set list from the Weird Al Concert:
 
-Fun Zone
-Tacky
-Mission Statement
-Drum Solo
-Polkamania!
-Everything You Know Is Wrong
-One More Minute
-Smells Like Nirvana
-Dare to Be Stupid
-Party in the CIA / It's All About the Pentiums / Bedrock Anthem / My Bologna / Ricky / Ode to a Superhero / I Love Rocky Road / Eat It / Like a Surgeon / Word Crimes / Canadian Idiot
-Fat
-Captain Underpants Theme Song
-Now You Know
-I Am Woman
-It’s My World (and We’re All Living in It)
-Skipper Dan
-eBay
-Stop Forwarding That Crap to Me
-White and Nerdy
-Amish Paradise
-Encore
-We All Have Cell Phones
-The Saga Begins
-Yoda
+- Fun Zone
+- Tacky
+- Mission Statement
+- Drum Solo
+- Polkamania!
+- Everything You Know Is Wrong
+- One More Minute
+- Smells Like Nirvana
+- Dare to Be Stupid
+- Party in the CIA / It's All About the Pentiums / Bedrock Anthem / My Bologna / Ricky / Ode to a Superhero / I Love Rocky Road / Eat It / Like a Surgeon / Word Crimes / Canadian Idiot
+- Fat
+- Captain Underpants Theme Song
+- Now You Know
+- I Am Woman
+- It’s My World (and We’re All Living in It)
+- Skipper Dan
+- eBay
+- Stop Forwarding That Crap to Me
+- White and Nerdy
+- Amish Paradise
+- Encore
+- We All Have Cell Phones
+- The Saga Begins
+- Yoda
