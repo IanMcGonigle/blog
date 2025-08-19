@@ -3,6 +3,8 @@ date = '2025-07-02T19:40:06-04:00'
 title = 'Canada Day'
 +++
 
+# Canada Day
+
 Tuesday, July 1st was Canada Day. Kari, Grant, Truman and I were able to go to the Blue Jays game. Kari's dad often gets tickets to sporting events, and he generously will offer them to us. So once a year we find ourselves at a Blue Jays game. Last year was Father's Day and this year was Canada Day. The Blue Jays were playing the Yankees, which is always an exciting matchup. Aaron Judge #99 for the Yankees is widely regarded to be one of the best players in the world right now, so we were excited to go see him play.
 
 In the afternoon we took the GO train from Danforth GO to Union Station. This is the by far the most convenient way for us to get downtown and to the sporting events that are at the Sky Dome or Scotiabank Arena. On the train platform, we ran into our neighbors, Katie, Lance and Lyra - all dressed in Blue Jay's gear. Lyra is a precocious 10-year-old who lives across the street. Her birthday is the 3rd of July, the day before Truman's. We saw them on the platform, and immediately the children began to get silly. We arrived at Union Station and took the Skyway, which is an enclosed glass corridor that links Union Station to the UP Express and the CN Tower. That's where we split up with our friends, who were going to a different gate, and we say goodbye.
