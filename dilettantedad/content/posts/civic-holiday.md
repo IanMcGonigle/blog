@@ -30,6 +30,13 @@ We had several national parks we had planned to see while on the Bruce Peninsula
 
 This "trail" was really more of a trail in spirit. White way-points painted on trees, and a rough rocky terrain that had me on all fours more than once. The Grotto was a cave and a cliff that looked like the cave beach from our trip to Croatia. It was very impressive. It was also very crowded, and the people gathered had little room to maneuver. It was like a crowded subway platform, but instead of falling onto the track, you could fall down 60 feet of razor edged rocks into a scenic ocean cave.
 
+<div class="my-carousel">
+  <img src="../images/grotto.jpg">
+  <img src="../images/grotto-boys.jpg">
+  <img src="../images/indian-head-1.jpg">
+  <img src="../images/indian-head.jpg">
+</div>
+
 We headed back to swim at Indian Head Cove. We set up shop on a big rock next to a little cove where the waves were crashing in a fun but manageable way. The water was iridescent blue at a distance and crystal clear up close. The smooth white limestone shelves on the floor of the cove gave the whole scene the appearance of water melt on a glacier. The water felt as cold as glacier run off. The water was colder than any beach we had been to except for Long beach in Tofino. The boys and I all played in the surf. Excited by the smoothness of the lime stone underfoot and the clarity of the water. Kari sat on in the sun on the rock overlooking us. Besides the little inlet where we were playing, there were two more to the left, each separated by an outcropping of rock. The waves got progressively more intense moving to the left.
 
 The boys got cold and headed up to the rock to sit with Kari and have a snack. I explored the other inlets. I found at the inlet furthest from our perch there was a space to jump off the rocks safely. I did this several times. It was fascinating to see the contour of the limestone beach under the water. Seeing shelves and cliffs, and large smooth stones. Kari, Grant, and Truman all came into the water. Kari and Grant found it too cold and went back to sit on the large rock. But "We _ALL_ went swimming" as Kari likes to say. Truman and I played in the water for a while longer. Kari said that I was having the time of my life. It may have been my favorite beach of all time.
@@ -42,12 +49,24 @@ Eventually we saw the smaller of the two "Flower Pots" from the trail. We climbe
 
 We continued on the trail to the larger flowerpot. The rocky slope to this one seemed more precarious, but it was worth it. The rocky sea stack seemed to sprout straight from the water. Standing stoically in the crashing waves. Unfortunately we were not able to admire the large pot for longer as there was limited space and lots of people trying to get their Instagram pics. We returned to the trail and eventually found a beach that looked to be made of white limestone spheres. It looked like a beach made of softballs, with unnaturally blue water. It did not look like Canada. We got into the water and realized that we needed to be back at the boat pickup in forty minutes. The boys and I sat in the surf and played for twenty minutes before retracing our path back to the boat.
 
+<div class="my-carousel">
+  <img src="../images/flowerpot-0.jpg">
+  <img src="../images/flowerpot-1.jpg">
+  <img src="../images/flowerpot-2.jpg">
+  <img src="../images/flowerpot-3.jpg">
+</div>
+
 Later that evening Kari and I thought that we would watch a movie with the boys. Anything but Kpop Demon Hunter's which the boys had now watched twice a day since arriving at the cottage. We decided on the Jim Carrey classic The Truman Show. This was a mistake. Both boys decided instead of watching the movie, they would launch a never ending barrage of questions about everything that popped up on the screen. "Is he a bad guy? Why is he weird? Is he famous? Do people know he is famous? Does he know he is famous? Does he die? Why doesn't he know he is famous? He is very weird. Do other people think he is weird? Are you sure he doesn't die? Did this happen in real life? Are you sure it didn't happen?" While these are all legitimate questions, their frequency drowned out all the dialogue and any chance of having them answered organically by watching the film.
 
 The following morning we went to [Singing Sands Beach](https://brucegreysimcoe.com/operators/singing-sands-beach). We knew we needed to go early because the parking lot was small and filled quickly. We passed the entrance every time we left or returned to the cottage. The lot was often full when on our first pass of the day. It was our only sandy beach visit of the week. The sand seemed to stretch out forever before reaching the water. The water itself was clear (of course) warm, and very shallow. The boys and I set off to explore the water. We must have walked about five hundred meters from shore before the water was above my waist. We turned and decided to play in the shallows by the water's edge. I described the walk back to shore like drudging through large snow drifts after a record snowfall - except the snow was melted. Kari did not understand. The boys decided to dig a hole and busied themselves far a while. Kari walked out to the waist deep water. When she got back she understood what I had been talking about.
 
-In the afternoon we went to [Halfway Log Dump](https://share.google/L9ZjgRoBs85RSK5PJ). Located on the other side of the peninsula, and we needed to drive twenty minutes down an extraordinarily dusty road. By the time we parked the car it was covered in a layer of fine dust that was a couple of centimeters thick in certain spots. After a short hike we came to a clearing and made our way down to the beach. It stretched for hundreds of meters out to each side. The shore was made up of softball like stones, like the ones on Flowerpot Island, but was a steep incline down to the water. The water was other worldly. Blue, turquoise and clear. It was a similar temperature to Indian Head Cove, but with more consistently gentle waves. The water was deep, and the floor was made up of large lime stone rocks, not a shelf like other places. The boys needed to move from stone to stone to keep their heads above water. They took to naming the various rocks that they could stand on. Fish Rock, Starting Rock, Family Rock were some of my favorites. On shore, Kari started to notice flies. The flies bit, and they bit hard. Kari braved the cold water to escape the flies.
+<div class="my-carousel">
+  <img src="../images/singing_sands-1.jpg">
+  <img src="../images/singing_sands.jpg">
+</div>
 
+In the afternoon we went to [Halfway Log Dump](https://share.google/L9ZjgRoBs85RSK5PJ). Located on the other side of the peninsula, and we needed to drive twenty minutes down an extraordinarily dusty road. By the time we parked the car it was covered in a layer of fine dust that was a couple of centimeters thick in certain spots. After a short hike we came to a clearing and made our way down to the beach. It stretched for hundreds of meters out to each side. The shore was made up of softball like stones, like the ones on Flowerpot Island, but was a steep incline down to the water. The water was other worldly. Blue, turquoise and clear. It was a similar temperature to Indian Head Cove, but with more consistently gentle waves. The water was deep, and the floor was made up of large lime stone rocks, not a shelf like other places. The boys needed to move from stone to stone to keep their heads above water. They took to naming the various rocks that they could stand on. Fish Rock, Starting Rock, Family Rock were some of my favorites. On shore, Kari started to notice flies. The flies bit, and they bit hard. Kari braved the cold water to escape the flies.
+<img src="../images/halfway.jpg">
 After a while at our first location on the beach we decided to try another section that had some rocky shelves. The walk there was an assault by the flies. No one was spared. This other section of the beach was a lot of fun. The rock shelf beach was a great place to sit and get hit by the waves. The water along the main rock was about three feet deep, but then there was a steep drop off at the rocks edge. We noticed that unlike all the other beaches we had visited during the week, there was nobody lounging on the shore. Anyone who was here was in the water. And when they left the water, they left the beach.
 
 When we left we ran trying to escape unbitten. The flies rode on our backs, and bags and towels. When we got to the car we made our best efforts not to track the flies in. A lone soldier made it into the car, but I was able to swat it before it could bite anyone.
@@ -57,3 +76,78 @@ After the beach we watched Spaceballs with the boys. There were far fewer questi
 Our last full day at the cottage was the Friday, and we received our first poor weather of the week. We spent Friday reading, playing computer games, and watching Monty Python and the Holy Grail. While it was unfortunate that we couldn't enjoy the water we enjoyed a relaxing day. Kari even made s'mores in the oven - they were a smashing success.
 
 On Saturday, we packed up our things and headed home. We listened to a Hardy Boys audiobook and the Kpop Demon Hunters soundtrack on the way home. It was a successful vacation, but I was happy to be home and sleep in my own bed.
+
+<style>
+.my-carousel {
+  position: relative;
+  width: 100%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.my-carousel img {
+  width: 100%;
+  display: none;
+}
+
+.my-carousel img.active {
+  display: block;
+}
+
+.my-carousel .controls {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  transform: translateY(-50%);
+}
+
+.my-carousel button {
+  background: rgba(0,0,0,0.5);
+  border: none;
+  color: white;
+  padding: 8px 12px;
+  cursor: pointer;
+  font-size: 18px;
+  border-radius: 4px;
+}
+</style>
+
+<script>
+(function() {
+  const carousels = document.querySelectorAll('.my-carousel');
+
+  carousels.forEach(carousel => {
+    const images = carousel.querySelectorAll('img');
+    let index = 0;
+
+    // wrap controls
+    const controls = document.createElement('div');
+    controls.className = 'controls';
+    controls.innerHTML = `
+      <button class="prev">‹</button>
+      <button class="next">›</button>
+    `;
+    carousel.appendChild(controls);
+
+    function showImage(i) {
+      images.forEach(img => img.classList.remove('active'));
+      images[i].classList.add('active');
+    }
+
+    carousel.querySelector('.prev').addEventListener('click', () => {
+      index = (index - 1 + images.length) % images.length;
+      showImage(index);
+    });
+
+    carousel.querySelector('.next').addEventListener('click', () => {
+      index = (index + 1) % images.length;
+      showImage(index);
+    });
+
+    // init
+    showImage(index);
+  });
+})();
+</script>
