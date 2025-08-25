@@ -1,0 +1,23 @@
++++
+date = '2025-08-25T12:48:34-04:00'
+title = 'New Music'
++++
+
+# Some New Music
+
+When I was younger I was in a rock band. We took our band very seriously, even if no one else did. We practiced regularly, and I was constantly writing and performing songs. It was a creative outlet I really enjoyed. Eventually The group disbanded, and I missed the creative aspects of being in a band, and so ever since I have gone through periods where I will dabble in making music again. Most of the time it's just with a guitar and a computer. As I have gotten older I have developed an appreciation for electronic music, and this has made its way into my musical output.
+
+The music is always amateurish, but I have fun creating it. I spend many hours watching music production tutorial videos on Youtube in an effort to improve, but I never really make progress. My songs still sound childish, and suffer from muddy mixes. I make music that is fun for me _while_ I am making it. I do not expect it to be enjoyable to listen to after the fact. Recently though I have made two songs that I have found that I enjoy listening to.
+
+The first song I called *Jammy*, and was made from clips of guitar that I recorded, and chopped up in Ableton live. Normally I use stock drum sounds, bit for this I used drum samples from a sample pack that I found on-line. All the tutorials I watch say the most important thing is sound selection. I think this is one of the reasons that I like how this song sounds.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2151538992&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ian-mcgonigle" title="Ian McGonigle" target="_blank" style="color: #cccccc; text-decoration: none;">Ian McGonigle</a> · <a href="https://soundcloud.com/ian-mcgonigle/jammy" title="Jammy" target="_blank" style="color: #cccccc; text-decoration: none;">Jammy</a></div>
+
+The next song I made is called *VCR to the TV*. About a decade ago I had an idea to create an album where the lyrics for all the tracks were taken from various instruction manuals. The album would be called _RTFM_.With the proliferation of AI voice to text I figured now was a good time to try making a song out of a manual. I found a random VCR instruction manual and fed it into Hume AI. The output was a British man reading the instructions. I took this and ran it through a vocoder to create a melody out of it. Again I used external sample packs for my drum sounds. I had this song stuck in my head for a week afterwards. I tried to ensure that something was _always_ changing. This is something that the tutorials often mention.
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/2152468302&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ian-mcgonigle" title="Ian McGonigle" target="_blank" style="color: #cccccc; text-decoration: none;">Ian McGonigle</a> · <a href="https://soundcloud.com/ian-mcgonigle/vcr-to-the-tv" title="VCR to the TV" target="_blank" style="color: #cccccc; text-decoration: none;">VCR to the TV</a></div>
+
+
+I am very happy with the mix in both of these songs. While there is definitely room for improvement, I made sure that each sonic item had its own spot in the frequency spectrum. This has led to these songs having a cleaner sounding mix. Without the excessive muddy sounds in the mid range.
+
+I have found the instruction manual for an old mp3 player that I have used notebook LLM to create a podcast about. I am looking forward to using it as the next track on _RTFM_. Wish me luck!
